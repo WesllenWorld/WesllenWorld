@@ -19,3 +19,5 @@ Computer science student passionate about technology and programming;<br>Interes
 [![](https://visitcount.itsvg.in/api?id=wesllenworld&icon=5&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![Snake animation](https://github.com/Wesllenworld/WesllenWorld/blob/output/github-contribution-grid-snake.svg)
