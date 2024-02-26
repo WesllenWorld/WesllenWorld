@@ -20,4 +20,4 @@ Computer science student passionate about technology and programming;<br>Interes
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Snake animation](https://github.com/Wesllenworld/WesllenWorld/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
