@@ -1,5 +1,8 @@
 # 💫 About Me:
-Computer science student passionate about technology and programming;<br>Interest in software development and machine learning;<br>Teamwork and communication skills;<br>Looking for internship or project opportunities to continue learning and contributing to the technology community.<br>
+Sou desenvolvedor back-end e estudante de Ciência da Computação na Universidade Católica de Pernambuco (UNICAP). Tenho como objetivo fazer parte de uma equipe de Tecnologia da Informação de desenvolvimento de software em uma empresa onde possa contribuir com conhecimentos e entusiasmo. 
+ 
+Tenho experiência em desenvolvimento back-end decorrente de estudos e aplicações durante a faculdade, utilizando JavaScript/TypeScript com Node.Js, Java com Spring Boot, C# com .NET e Python, além dos bancos de dados MySQL, PostgreSQL e versionamento de código com Git e GitHub. 
+Tenho também habilidades de desenvolvimento front-end com HTML, CSS e JavaScript.<br>
 
 
 ## 🌐 Socials:
