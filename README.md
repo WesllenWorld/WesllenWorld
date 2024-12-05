@@ -11,7 +11,6 @@ Computer science student passionate about technology and programming;<br>Interes
 # 📊 GitHub Stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=WesllenWorld&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=WesllenWorld&theme=vue-dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WesllenWorld&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=wesllenworld&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
